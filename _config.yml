@@ -7,8 +7,8 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
-picture: assets/modified-headshot.jpg
+external-image: false
+picture: assets/modified-headshot3.jpg
 
 # your site color theme, true for dark theme, 
 # false to light theme, auto to switch with system.
@@ -46,7 +46,7 @@ authors:
     name: Steve McCauley
     bio: Adventuring through cyberspace, powered by coffee and fueled with passion 
     external-image: false
-    picture: assets/modified-headshot.jpg
+    picture: assets/modified-headshot2.jpg
     twitter: 
 
 # do you want a larger site? change the option below
