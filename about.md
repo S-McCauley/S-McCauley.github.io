@@ -4,42 +4,27 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>Greetings, my name is Steve McCauley!  I’m currently a DevOps engineer, but my journey to this point is anything but conventional. For 10 years, I was a craft beer brewer and co-owner of a brewery I started with a couple of my close friends. It was an incredible experience, full of creativity and good times, but after a while, I realized I missed the world of technology.
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+From a young age I’ve always had a passion for computers, so as the party was ending for me in the brewing world, I decided it was time for a change. With the help of a loving wife, the most amazing mentors, a lot of self-learning and a shit ton of coffee, I made the leap into tech with reckless abandon.  Today in DevOps I’m able to blend my love of computers and learning while solving complex problems that I would never had dreamed of doing before.<p>
 
-<h2>Skills</h2>
+<p>I created this site to share my thoughts, ideas, and experiences as I traverse today's IT landscape.  Subjects will wander between video games, books, IT, cybersecurity, DevOps, the future, and philosophy to name a few.<p>  
+
+<h2>Skills that Pay the Bills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Tests)</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
+	<li>AWS</li>
 	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>Learning</li>
+	<li>Grafana</li>
+	<li>VMs</li>
+	<li>All The Linux</li>
+	<li>Maintaining a decent level of sanity</li>
+	<li>Git</li>
+	<li>Kubernetes</li>
+	<li>Terraform</li>
+	<li>Confluent</li>
+	<li>Networking</li>
+	<li>CI/CD</li>
 </ul>
 
-<h2>Projects</h2>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
