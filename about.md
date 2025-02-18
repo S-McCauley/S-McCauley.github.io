@@ -9,22 +9,3 @@ layout: page
 From a young age I’ve always had a passion for computers, so as the party was ending for me in the brewing world, I decided it was time for a change. With the help of a loving wife, the most amazing mentors, a lot of self-learning and a shit ton of coffee, I made the leap into tech with reckless abandon.  Today in DevOps I’m able to blend my love of computers and learning while solving complex problems that I would never had dreamed of doing before.<p>
 
 <p>I created this site to share my thoughts, ideas, and experiences as I traverse today's IT landscape.  Subjects will wander between video games, books, IT, cybersecurity, DevOps, the future, and philosophy to name a few.<p>  
-
-<h2>Skills that Pay the Bills</h2>
-
-<ul class="skill-list">
-	<li>AWS</li>
-	<li>Python</li>
-	<li>Learning</li>
-	<li>Grafana</li>
-	<li>VMs</li>
-	<li>All The Linux</li>
-	<li>Maintaining a decent level of sanity</li>
-	<li>Git</li>
-	<li>Kubernetes</li>
-	<li>Terraform</li>
-	<li>Confluent</li>
-	<li>Networking</li>
-	<li>CI/CD</li>
-</ul>
-
