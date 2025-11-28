@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "platform-cluster",
+			"path": "../platform-cluster"
+		}
+	],
+	"settings": {}
+}
