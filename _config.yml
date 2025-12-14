@@ -30,32 +30,31 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname: github # enter this from your disqus account
-  categories: [blog] # only show disqus for posts that have these categories
+  shortname: # enter this from your disqus account
+  categories: # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook:
-twitter:
-instagram:
-linkedin:
+//facebook:
+//twitter:
+//instagram:
+//linkedin:
 github: S-McCauley
-email:
+email: 
 
 authors:
   smccauley:
     name: Steve McCauley
-    bio: Adventuring through cyberspace, powered by coffee and fueled with passion 
+    bio:  
     external-image: false
-    picture: assets/modified-headshot2.jpg
-    twitter: 
+    picture: assets/modified-headshot3.jpg
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: normal
+width: large
 
 # if you don't need projects, comment the *projects* configs below
-projects: true
+projects: false
 
 # if you don't need "about" or "blog", comment them out below
 about: true
